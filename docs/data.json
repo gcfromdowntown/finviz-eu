@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-20T22:58:06.278Z",
+  "timestamp": "2026-11-24T03:10:47.767Z",
   "stockCount": 19,
   "sectorPerformance": [
     {
@@ -382,7 +382,7 @@
       "ew1W": -4.396666666666666,
       "sizeSpread": -1.1216460556741499,
       "sizeLeadership": "SMALL_CAP_LED",
-      "sharesPctChange": 0,
+      "sharesPctChange": 0.024078254326561382,
       "priceChange": -5.5183127223408155,
       "flowPriceSignal": "NEUTRAL",
       "rank1W": 7,
@@ -422,7 +422,7 @@
       "ew1W": -5.956666666666667,
       "sizeSpread": -0.799085826178068,
       "sizeLeadership": "SMALL_CAP_LED",
-      "sharesPctChange": 0,
+      "sharesPctChange": 0.033749340833186876,
       "priceChange": -6.755752492844735,
       "flowPriceSignal": "NEUTRAL",
       "rank1W": 9,
@@ -461,7 +461,7 @@
       "ew1W": -8.12,
       "sizeSpread": -2.5440448477324704,
       "sizeLeadership": "SMALL_CAP_LED",
-      "sharesPctChange": 0,
+      "sharesPctChange": 0.03649962602842203,
       "priceChange": -10.66404484773247,
       "flowPriceSignal": "NEUTRAL",
       "rank1W": 11,
@@ -500,7 +500,7 @@
       "ew1W": -5.404999999999999,
       "sizeSpread": 0.14587173757904903,
       "sizeLeadership": "BROAD_BASED",
-      "sharesPctChange": 0,
+      "sharesPctChange": 0.03366336633663379,
       "priceChange": -5.25912826242095,
       "flowPriceSignal": "NEUTRAL",
       "rank1W": 6,
@@ -537,7 +537,7 @@
       "ew1W": -3.38,
       "sizeSpread": 0.23108002935861993,
       "sizeLeadership": "BROAD_BASED",
-      "sharesPctChange": 0,
+      "sharesPctChange": 0.0318767152206039,
       "priceChange": -3.14891997064138,
       "flowPriceSignal": "NEUTRAL",
       "rank1W": 2,
@@ -575,7 +575,7 @@
       "ew1W": -3.48,
       "sizeSpread": -4.440892098500626e-16,
       "sizeLeadership": "BROAD_BASED",
-      "sharesPctChange": 0,
+      "sharesPctChange": 0.02419354838709666,
       "priceChange": -3.4800000000000004,
       "flowPriceSignal": "NEUTRAL",
       "rank1W": 3,
@@ -614,7 +614,7 @@
       "ew1W": -4.33,
       "sizeSpread": 0.27310467740124267,
       "sizeLeadership": "BROAD_BASED",
-      "sharesPctChange": 0,
+      "sharesPctChange": 0.040115718418515044,
       "priceChange": -4.056895322598757,
       "flowPriceSignal": "NEUTRAL",
       "rank1W": 4,
@@ -652,7 +652,7 @@
       "ew1W": -6.05,
       "sizeSpread": 0,
       "sizeLeadership": "BROAD_BASED",
-      "sharesPctChange": 0,
+      "sharesPctChange": 0.058812581425646854,
       "priceChange": -6.05,
       "flowPriceSignal": "NEUTRAL",
       "rank1W": 8,
@@ -690,7 +690,7 @@
       "ew1W": -2.89,
       "sizeSpread": 0,
       "sizeLeadership": "BROAD_BASED",
-      "sharesPctChange": 0,
+      "sharesPctChange": 0.02252722661494852,
       "priceChange": -2.89,
       "flowPriceSignal": "NEUTRAL",
       "rank1W": 1,
@@ -728,7 +728,7 @@
       "ew1W": -10.47,
       "sizeSpread": 0,
       "sizeLeadership": "BROAD_BASED",
-      "sharesPctChange": 0,
+      "sharesPctChange": 0.07024336283185834,
       "priceChange": -10.47,
       "flowPriceSignal": "NEUTRAL",
       "rank1W": 10,
@@ -765,7 +765,7 @@
       "ew1W": -4.9,
       "sizeSpread": 0,
       "sizeLeadership": "BROAD_BASED",
-      "sharesPctChange": 0,
+      "sharesPctChange": 0.04281292984869326,
       "priceChange": -4.9,
       "flowPriceSignal": "NEUTRAL",
       "rank1W": 5,
@@ -971,12 +971,12 @@
       "tickers": [
         "TLT"
       ],
-      "avgPerf1W": 2.61,
-      "avgPerf1M": 1.51,
-      "avgPerf3M": -1.89,
-      "avgRelVolume": 1.07,
-      "flowScore": 3.9,
-      "signal": "INFLOW",
+      "avgPerf1W": 2.91,
+      "avgPerf1M": -0.06,
+      "avgPerf3M": -0.79,
+      "avgRelVolume": 1.18,
+      "flowScore": 2.91,
+      "signal": "NEUTRAL",
       "trendPhase": "NEUTRAL"
     },
     {
@@ -1008,33 +1008,33 @@
       "trendPhase": "EARLY_DOWNTREND"
     },
     {
+      "assetClass": "美國股市",
+      "label": "標普500",
+      "tickers": [
+        "SPY"
+      ],
+      "avgPerf1W": -2.39,
+      "avgPerf1M": -5.45,
+      "avgPerf3M": -5.29,
+      "avgRelVolume": 1.87,
+      "flowScore": -27.9,
+      "signal": "OUTFLOW",
+      "trendPhase": "EARLY_DOWNTREND"
+    },
+    {
       "assetClass": "商品",
       "label": "商品指數, 石油",
       "tickers": [
         "DBC",
         "USO"
       ],
-      "avgPerf1W": -4.43,
-      "avgPerf1M": -12.55,
-      "avgPerf3M": 0.99,
-      "avgRelVolume": 0.89,
-      "flowScore": -19.51,
+      "avgPerf1W": -4.26,
+      "avgPerf1M": -15.61,
+      "avgPerf3M": -3.65,
+      "avgRelVolume": 0.94,
+      "flowScore": -28,
       "signal": "OUTFLOW",
       "trendPhase": "EARLY_DOWNTREND"
-    },
-    {
-      "assetClass": "美國股市",
-      "label": "標普500",
-      "tickers": [
-        "SPY"
-      ],
-      "avgPerf1W": -8.56,
-      "avgPerf1M": -10.77,
-      "avgPerf3M": -10.3,
-      "avgRelVolume": 1.81,
-      "flowScore": -57.31,
-      "signal": "OUTFLOW",
-      "trendPhase": "ESTABLISHED_DOWNTREND"
     },
     {
       "assetClass": "黃金",
@@ -1045,7 +1045,7 @@
       "avgPerf1W": -8.37,
       "avgPerf1M": -12.5,
       "avgPerf3M": -16.72,
-      "avgRelVolume": 2.55,
+      "avgRelVolume": 2.56,
       "flowScore": -79.62,
       "signal": "OUTFLOW",
       "trendPhase": "ESTABLISHED_DOWNTREND"
@@ -1056,11 +1056,11 @@
       "tickers": [
         "IBIT"
       ],
-      "avgPerf1W": -15.2,
-      "avgPerf1M": -30.98,
-      "avgPerf3M": -14.85,
-      "avgRelVolume": 1.39,
-      "flowScore": -97.85,
+      "avgPerf1W": -5.9,
+      "avgPerf1M": -24.84,
+      "avgPerf3M": -15.97,
+      "avgRelVolume": 1.47,
+      "flowScore": -81.27,
       "signal": "OUTFLOW",
       "trendPhase": "ESTABLISHED_DOWNTREND"
     }
@@ -1070,12 +1070,12 @@
       "ticker": "EXV5.DE",
       "sector": "Consumer Cyclical",
       "totalAssets": 179981872,
-      "sharesOutstanding": 4945236.213765627,
-      "sharesPct5Day": 0,
+      "sharesOutstanding": 4893471.234366504,
+      "sharesPct5Day": 0.052202283849918464,
       "sharesPct1Month": 0,
       "sharesPct3Month": 0,
       "sharesPct1Year": 0,
-      "flow5Day": 0,
+      "flow5Day": 8929333.184496135,
       "flow1Month": 0,
       "flow3Month": 0,
       "flow6Month": 0,
@@ -1085,12 +1085,12 @@
       "ticker": "EXV1.DE",
       "sector": "Financial",
       "totalAssets": 2770131456,
-      "sharesOutstanding": 74345986.47342996,
-      "sharesPct5Day": 0,
+      "sharesOutstanding": 72393347.86358291,
+      "sharesPct5Day": 0.051483078531295,
       "sharesPct1Month": 0,
       "sharesPct3Month": 0,
       "sharesPct1Year": 0,
-      "flow5Day": 0,
+      "flow5Day": 135632135.41245174,
       "flow1Month": 0,
       "flow3Month": 0,
       "flow6Month": 0,
@@ -1100,12 +1100,12 @@
       "ticker": "EXV6.DE",
       "sector": "Basic Materials",
       "totalAssets": 471024928,
-      "sharesOutstanding": 7055496.225284601,
-      "sharesPct5Day": 0,
+      "sharesOutstanding": 6813610.993779835,
+      "sharesPct5Day": 0.09879936351800955,
       "sharesPct1Month": 0,
       "sharesPct3Month": 0,
       "sharesPct1Year": 0,
-      "flow5Day": 0,
+      "flow5Day": 42352557.375460744,
       "flow1Month": 0,
       "flow3Month": 0,
       "flow6Month": 0,
@@ -1115,12 +1115,12 @@
       "ticker": "EXV7.DE",
       "sector": "Basic Materials",
       "totalAssets": 104235728,
-      "sharesOutstanding": 784553.1235887399,
-      "sharesPct5Day": 0,
+      "sharesOutstanding": 779623.9940164548,
+      "sharesPct5Day": 0.03649962602842203,
       "sharesPct1Month": 0,
       "sharesPct3Month": 0,
       "sharesPct1Year": 0,
-      "flow5Day": 0,
+      "flow5Day": 3670589.9310145974,
       "flow1Month": 0,
       "flow3Month": 0,
       "flow6Month": 0,
@@ -1130,12 +1130,12 @@
       "ticker": "EXV8.DE",
       "sector": "Industrials",
       "totalAssets": 776291328,
-      "sharesOutstanding": 9172767.671038639,
-      "sharesPct5Day": 0,
+      "sharesOutstanding": 8952731.265136663,
+      "sharesPct5Day": 0.022950063429823548,
       "sharesPct1Month": 0,
       "sharesPct3Month": 0,
       "sharesPct1Year": 0,
-      "flow5Day": 0,
+      "flow5Day": 17416231.5977453,
       "flow1Month": 0,
       "flow3Month": 0,
       "flow6Month": 0,
@@ -1145,12 +1145,12 @@
       "ticker": "EXH2.DE",
       "sector": "Financial",
       "totalAssets": 96123600,
-      "sharesOutstanding": 1036932.0388349515,
-      "sharesPct5Day": 0,
+      "sharesOutstanding": 1018798.092209857,
+      "sharesPct5Day": 0.05002649708532058,
       "sharesPct1Month": 0,
       "sharesPct3Month": 0,
       "sharesPct1Year": 0,
-      "flow5Day": 0,
+      "flow5Day": 4579624.4271727055,
       "flow1Month": 0,
       "flow3Month": 0,
       "flow6Month": 0,
@@ -1160,12 +1160,12 @@
       "ticker": "EXH3.DE",
       "sector": "Consumer Defensive",
       "totalAssets": 352851328,
-      "sharesOutstanding": 5059525.781474046,
-      "sharesPct5Day": 0,
+      "sharesOutstanding": 5069702.988505747,
+      "sharesPct5Day": 0.028879310344827592,
       "sharesPct1Month": 0,
       "sharesPct3Month": 0,
       "sharesPct1Year": 0,
-      "flow5Day": 0,
+      "flow5Day": 9904080.00670302,
       "flow1Month": 0,
       "flow3Month": 0,
       "flow6Month": 0,
@@ -1175,12 +1175,12 @@
       "ticker": "EXV4.DE",
       "sector": "Healthcare",
       "totalAssets": 728892736,
-      "sharesOutstanding": 5946261.510850057,
-      "sharesPct5Day": 0,
+      "sharesOutstanding": 5878167.225806451,
+      "sharesPct5Day": 0.02419354838709666,
       "sharesPct1Month": 0,
       "sharesPct3Month": 0,
       "sharesPct1Year": 0,
-      "flow5Day": 0,
+      "flow5Day": 17217938.645669222,
       "flow1Month": 0,
       "flow3Month": 0,
       "flow6Month": 0,
@@ -1190,12 +1190,12 @@
       "ticker": "EXH4.DE",
       "sector": "Industrials",
       "totalAssets": 540590848,
-      "sharesOutstanding": 5019413.630454968,
-      "sharesPct5Day": 0,
+      "sharesOutstanding": 4865804.212421242,
+      "sharesPct5Day": 0.03366336633663379,
       "sharesPct1Month": 0,
       "sharesPct3Month": 0,
       "sharesPct1Year": 0,
-      "flow5Day": 0,
+      "flow5Day": 17605449.07279694,
       "flow1Month": 0,
       "flow3Month": 0,
       "flow6Month": 0,
@@ -1205,12 +1205,12 @@
       "ticker": "EXH5.DE",
       "sector": "Financial",
       "totalAssets": 637765824,
-      "sharesOutstanding": 11301893.035619352,
-      "sharesPct5Day": 0,
+      "sharesOutstanding": 11210508.419757426,
+      "sharesPct5Day": 0.033749340833186876,
       "sharesPct1Month": 0,
       "sharesPct3Month": 0,
       "sharesPct1Year": 0,
-      "flow5Day": 0,
+      "flow5Day": 20821465.432409525,
       "flow1Month": 0,
       "flow3Month": 0,
       "flow6Month": 0,
@@ -1220,12 +1220,12 @@
       "ticker": "EXH6.DE",
       "sector": "Communication Services",
       "totalAssets": 16240375,
-      "sharesOutstanding": 482196.4073634204,
-      "sharesPct5Day": 0,
+      "sharesOutstanding": 481053.76184834127,
+      "sharesPct5Day": 0.046208530805687244,
       "sharesPct1Month": 0,
       "sharesPct3Month": 0,
       "sharesPct1Year": 0,
-      "flow5Day": 0,
+      "flow5Day": 717298.5560588911,
       "flow1Month": 0,
       "flow3Month": 0,
       "flow6Month": 0,
@@ -1235,12 +1235,12 @@
       "ticker": "EXH1.DE",
       "sector": "Energy",
       "totalAssets": 686369024,
-      "sharesOutstanding": 12841328.793264734,
-      "sharesPct5Day": 0,
+      "sharesOutstanding": 12774409.529127117,
+      "sharesPct5Day": 0.058812581425646854,
       "sharesPct1Month": 0,
       "sharesPct3Month": 0,
       "sharesPct1Year": 0,
-      "flow5Day": 0,
+      "flow5Day": 38124909.75285649,
       "flow1Month": 0,
       "flow3Month": 0,
       "flow6Month": 0,
@@ -1250,12 +1250,12 @@
       "ticker": "EXH7.DE",
       "sector": "Consumer Defensive",
       "totalAssets": 189953472,
-      "sharesOutstanding": 2027251.5688367127,
-      "sharesPct5Day": 0,
+      "sharesOutstanding": 2004997.593413553,
+      "sharesPct5Day": 0.0318767152206039,
       "sharesPct1Month": 0,
       "sharesPct3Month": 0,
       "sharesPct1Year": 0,
-      "flow5Day": 0,
+      "flow5Day": 5868038.926350266,
       "flow1Month": 0,
       "flow3Month": 0,
       "flow6Month": 0,
@@ -1265,12 +1265,12 @@
       "ticker": "EXI5.DE",
       "sector": "Real Estate",
       "totalAssets": 57910056,
-      "sharesOutstanding": 4350214.543269231,
-      "sharesPct5Day": 0,
+      "sharesOutstanding": 4319711.770848873,
+      "sharesPct5Day": 0.02252722661494852,
       "sharesPct1Month": 0,
       "sharesPct3Month": 0,
       "sharesPct1Year": 0,
-      "flow5Day": 0,
+      "flow5Day": 1275812.4388678074,
       "flow1Month": 0,
       "flow3Month": 0,
       "flow6Month": 0,
@@ -1280,12 +1280,12 @@
       "ticker": "EXH8.DE",
       "sector": "Consumer Cyclical",
       "totalAssets": 11190370,
-      "sharesOutstanding": 229758.135715019,
-      "sharesPct5Day": 0,
+      "sharesOutstanding": 225181.00412516348,
+      "sharesPct5Day": 0.004427004728845905,
       "sharesPct1Month": 0,
       "sharesPct3Month": 0,
       "sharesPct1Year": 0,
-      "flow5Day": 0,
+      "flow5Day": 49321.474506661296,
       "flow1Month": 0,
       "flow3Month": 0,
       "flow6Month": 0,
@@ -1295,12 +1295,12 @@
       "ticker": "EXV3.DE",
       "sector": "Technology",
       "totalAssets": 251164080,
-      "sharesOutstanding": 2899608.4045255138,
-      "sharesPct5Day": 0,
+      "sharesOutstanding": 2778363.716814159,
+      "sharesPct5Day": 0.07024336283185834,
       "sharesPct1Month": 0,
       "sharesPct3Month": 0,
       "sharesPct1Year": 0,
-      "flow5Day": 0,
+      "flow5Day": 16484670.883720934,
       "flow1Month": 0,
       "flow3Month": 0,
       "flow6Month": 0,
@@ -1310,12 +1310,12 @@
       "ticker": "EXV2.DE",
       "sector": "Communication Services",
       "totalAssets": 256667728,
-      "sharesOutstanding": 9917609.273570325,
-      "sharesPct5Day": 0,
+      "sharesOutstanding": 9900394.522661524,
+      "sharesPct5Day": 0.040115718418515044,
       "sharesPct1Month": 0,
       "sharesPct3Month": 0,
       "sharesPct1Year": 0,
-      "flow5Day": 0,
+      "flow5Day": 9899293.050992012,
       "flow1Month": 0,
       "flow3Month": 0,
       "flow6Month": 0,
@@ -1325,12 +1325,12 @@
       "ticker": "EXV9.DE",
       "sector": "Consumer Cyclical",
       "totalAssets": 63283400,
-      "sharesOutstanding": 2442431.4936318025,
-      "sharesPct5Day": 0,
+      "sharesOutstanding": 2380865.312264861,
+      "sharesPct5Day": 0.024078254326561382,
       "sharesPct1Month": 0,
       "sharesPct3Month": 0,
       "sharesPct1Year": 0,
-      "flow5Day": 0,
+      "flow5Day": 1487927.1124173403,
       "flow1Month": 0,
       "flow3Month": 0,
       "flow6Month": 0,
@@ -1340,12 +1340,12 @@
       "ticker": "EXH9.DE",
       "sector": "Utilities",
       "totalAssets": 864997888,
-      "sharesOutstanding": 14996495.977808598,
-      "sharesPct5Day": 0,
+      "sharesOutstanding": 14872728.473177442,
+      "sharesPct5Day": 0.04281292984869326,
       "sharesPct1Month": 0,
       "sharesPct3Month": 0,
       "sharesPct1Year": 0,
-      "flow5Day": 0,
+      "flow5Day": 35512691.527122855,
       "flow1Month": 0,
       "flow3Month": 0,
       "flow6Month": 0,
@@ -1357,134 +1357,134 @@
       "ticker": "EXV5.DE",
       "sector": "Consumer Cyclical",
       "totalAssets": 179981872,
-      "price": 36.395,
-      "date": "2026-11-20"
+      "price": 36.78,
+      "date": "2026-11-24"
     },
     {
       "ticker": "EXV1.DE",
       "sector": "Financial",
       "totalAssets": 2770131456,
-      "price": 37.26,
-      "date": "2026-11-20"
+      "price": 38.265,
+      "date": "2026-11-24"
     },
     {
       "ticker": "EXV6.DE",
       "sector": "Basic Materials",
       "totalAssets": 471024928,
-      "price": 66.76,
-      "date": "2026-11-20"
+      "price": 69.13,
+      "date": "2026-11-24"
     },
     {
       "ticker": "EXV7.DE",
       "sector": "Basic Materials",
       "totalAssets": 104235728,
-      "price": 132.86,
-      "date": "2026-11-20"
+      "price": 133.7,
+      "date": "2026-11-24"
     },
     {
       "ticker": "EXV8.DE",
       "sector": "Industrials",
       "totalAssets": 776291328,
-      "price": 84.63,
-      "date": "2026-11-20"
+      "price": 86.71,
+      "date": "2026-11-24"
     },
     {
       "ticker": "EXH2.DE",
       "sector": "Financial",
       "totalAssets": 96123600,
-      "price": 92.7,
-      "date": "2026-11-20"
+      "price": 94.35,
+      "date": "2026-11-24"
     },
     {
       "ticker": "EXH3.DE",
       "sector": "Consumer Defensive",
       "totalAssets": 352851328,
-      "price": 69.74,
-      "date": "2026-11-20"
+      "price": 69.6,
+      "date": "2026-11-24"
     },
     {
       "ticker": "EXV4.DE",
       "sector": "Healthcare",
       "totalAssets": 728892736,
-      "price": 122.58,
-      "date": "2026-11-20"
+      "price": 124,
+      "date": "2026-11-24"
     },
     {
       "ticker": "EXH4.DE",
       "sector": "Industrials",
       "totalAssets": 540590848,
-      "price": 107.7,
-      "date": "2026-11-20"
+      "price": 111.1,
+      "date": "2026-11-24"
     },
     {
       "ticker": "EXH5.DE",
       "sector": "Financial",
       "totalAssets": 637765824,
-      "price": 56.43,
-      "date": "2026-11-20"
+      "price": 56.89,
+      "date": "2026-11-24"
     },
     {
       "ticker": "EXH6.DE",
       "sector": "Communication Services",
       "totalAssets": 16240375,
-      "price": 33.68,
-      "date": "2026-11-20"
+      "price": 33.76,
+      "date": "2026-11-24"
     },
     {
       "ticker": "EXH1.DE",
       "sector": "Energy",
       "totalAssets": 686369024,
-      "price": 53.45,
-      "date": "2026-11-20"
+      "price": 53.73,
+      "date": "2026-11-24"
     },
     {
       "ticker": "EXH7.DE",
       "sector": "Consumer Defensive",
       "totalAssets": 189953472,
-      "price": 93.7,
-      "date": "2026-11-20"
+      "price": 94.74,
+      "date": "2026-11-24"
     },
     {
       "ticker": "EXI5.DE",
       "sector": "Real Estate",
       "totalAssets": 57910056,
-      "price": 13.312,
-      "date": "2026-11-20"
+      "price": 13.406,
+      "date": "2026-11-24"
     },
     {
       "ticker": "EXH8.DE",
       "sector": "Consumer Cyclical",
       "totalAssets": 11190370,
-      "price": 48.705,
-      "date": "2026-11-20"
+      "price": 49.695,
+      "date": "2026-11-24"
     },
     {
       "ticker": "EXV3.DE",
       "sector": "Technology",
       "totalAssets": 251164080,
-      "price": 86.62,
-      "date": "2026-11-20"
+      "price": 90.4,
+      "date": "2026-11-24"
     },
     {
       "ticker": "EXV2.DE",
       "sector": "Communication Services",
       "totalAssets": 256667728,
-      "price": 25.88,
-      "date": "2026-11-20"
+      "price": 25.925,
+      "date": "2026-11-24"
     },
     {
       "ticker": "EXV9.DE",
       "sector": "Consumer Cyclical",
       "totalAssets": 63283400,
-      "price": 25.91,
-      "date": "2026-11-20"
+      "price": 26.58,
+      "date": "2026-11-24"
     },
     {
       "ticker": "EXH9.DE",
       "sector": "Utilities",
       "totalAssets": 864997888,
-      "price": 57.68,
-      "date": "2026-11-20"
+      "price": 58.16,
+      "date": "2026-11-24"
     }
   ],
   "nportData": [],
@@ -1669,10 +1669,10 @@
     {
       "ticker": "TLT",
       "label": "20年期以上美債",
-      "sma20": 0.56,
-      "sma50": 1.72,
-      "sma200": -3.18,
-      "rsi": 47.75,
+      "sma20": 0.86,
+      "sma50": 2,
+      "sma200": -2.86,
+      "rsi": 54.97,
       "trendPhase": "NEUTRAL"
     },
     {
@@ -1694,31 +1694,22 @@
       "trendPhase": "EARLY_DOWNTREND"
     },
     {
-      "ticker": "USO",
-      "label": "石油",
-      "sma20": -6.98,
-      "sma50": -7.94,
-      "sma200": 8.08,
-      "rsi": 29.74,
-      "trendPhase": "EARLY_DOWNTREND"
-    },
-    {
       "ticker": "SPY",
       "label": "標普500",
-      "sma20": -7.76,
-      "sma50": -9.26,
-      "sma200": -5.86,
-      "rsi": 29.36,
-      "trendPhase": "ESTABLISHED_DOWNTREND"
+      "sma20": -3.13,
+      "sma50": -4.89,
+      "sma200": -1.45,
+      "rsi": 41.15,
+      "trendPhase": "EARLY_DOWNTREND"
     },
     {
       "ticker": "DBC",
       "label": "商品指數",
-      "sma20": -7.05,
-      "sma50": -9.6,
-      "sma200": -1.42,
-      "rsi": 12.26,
-      "trendPhase": "EARLY_DOWNTREND"
+      "sma20": -7.03,
+      "sma50": -10.02,
+      "sma200": -2.21,
+      "rsi": 11.72,
+      "trendPhase": "ESTABLISHED_DOWNTREND"
     },
     {
       "ticker": "4GLD.DE",
@@ -1730,12 +1721,21 @@
       "trendPhase": "ESTABLISHED_DOWNTREND"
     },
     {
+      "ticker": "USO",
+      "label": "石油",
+      "sma20": -10.17,
+      "sma50": -11.8,
+      "sma200": 3,
+      "rsi": 23.89,
+      "trendPhase": "EARLY_DOWNTREND"
+    },
+    {
       "ticker": "IBIT",
       "label": "比特幣ETF",
-      "sma20": -20.12,
-      "sma50": -25.91,
-      "sma200": -19.22,
-      "rsi": 16.48,
+      "sma20": -15.16,
+      "sma50": -21.97,
+      "sma200": -15.25,
+      "rsi": 21.09,
       "trendPhase": "ESTABLISHED_DOWNTREND"
     }
   ],
@@ -1986,13 +1986,13 @@
         {
           "ticker": "TLT",
           "label": "20年期以上美債",
-          "action": "BUY",
-          "confidence": 45,
-          "rationale": "趨勢未明但有資金流入 — 可建小倉",
+          "action": "HOLD",
+          "confidence": 35,
+          "rationale": "訊號未明 — 等趨勢形成",
           "factors": [
             "趨勢：中性",
-            "RSI 48（中性）",
-            "資金流：INFLOW（評分 3.9）"
+            "RSI 55（中性）",
+            "資金流：NEUTRAL（評分 2.9）"
           ]
         },
         {
@@ -2008,15 +2008,15 @@
           ]
         },
         {
-          "ticker": "SPY",
-          "label": "標普500",
+          "ticker": "DBC",
+          "label": "商品指數",
           "action": "SELL",
           "confidence": 80,
           "rationale": "低於 SMA50 及 SMA200 — 跌勢確立，避開",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 29（超賣）",
-            "資金流：OUTFLOW（評分 -57.3）",
+            "RSI 12（超賣）",
+            "資金流：OUTFLOW（評分 -28.0）",
             "均線空頭排列（價格低於所有均線）",
             "超賣但趨勢向下 — 反彈料短暫"
           ]
@@ -2043,8 +2043,8 @@
           "rationale": "低於 SMA50 及 SMA200 — 跌勢確立，避開",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 16（超賣）",
-            "資金流：OUTFLOW（評分 -97.8）",
+            "RSI 21（超賣）",
+            "資金流：OUTFLOW（評分 -81.3）",
             "均線空頭排列（價格低於所有均線）",
             "超賣但趨勢向下 — 反彈料短暫"
           ]
@@ -2063,6 +2063,19 @@
           ]
         },
         {
+          "ticker": "SPY",
+          "label": "標普500",
+          "action": "SELL",
+          "confidence": 75,
+          "rationale": "跌穿 SMA50 兼資金流出 — 趨勢轉壞",
+          "factors": [
+            "趨勢：早期跌勢",
+            "RSI 41（中性）",
+            "資金流：OUTFLOW（評分 -27.9）",
+            "均線空頭排列（價格低於所有均線）"
+          ]
+        },
+        {
           "ticker": "USO",
           "label": "石油",
           "action": "SELL",
@@ -2070,21 +2083,8 @@
           "rationale": "跌穿 SMA50 兼資金流出 — 趨勢轉壞",
           "factors": [
             "趨勢：早期跌勢",
-            "RSI 30（超賣）",
-            "資金流：OUTFLOW（評分 -19.5）"
-          ]
-        },
-        {
-          "ticker": "DBC",
-          "label": "商品指數",
-          "action": "SELL",
-          "confidence": 75,
-          "rationale": "跌穿 SMA50 兼資金流出 — 趨勢轉壞",
-          "factors": [
-            "趨勢：早期跌勢",
-            "RSI 12（超賣）",
-            "資金流：OUTFLOW（評分 -19.5）",
-            "均線空頭排列（價格低於所有均線）"
+            "RSI 24（超賣）",
+            "資金流：OUTFLOW（評分 -28.0）"
           ]
         }
       ]
@@ -2334,15 +2334,15 @@
       ],
       "assetClass": [
         {
-          "ticker": "SPY",
-          "label": "標普500",
+          "ticker": "DBC",
+          "label": "商品指數",
           "action": "BUY",
           "confidence": 80,
-          "rationale": "投降式拋售訊號 — RSI 29 超賣，低於 SMA200 -5.9%",
+          "rationale": "投降式拋售訊號 — RSI 12 超賣，低於 SMA200 -2.2%",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 29（超賣）",
-            "資金流：OUTFLOW（評分 -57.3）",
+            "RSI 12（超賣）",
+            "資金流：OUTFLOW（評分 -28.0）",
             "均線空頭排列（價格低於所有均線）",
             "遠低於長期平均 ＝ 均值回歸機會",
             "資金流出 ＝ 恐慌拋售 — 逆勢買入區"
@@ -2368,11 +2368,11 @@
           "label": "比特幣ETF",
           "action": "BUY",
           "confidence": 80,
-          "rationale": "投降式拋售訊號 — RSI 16 超賣，低於 SMA200 -19.2%",
+          "rationale": "投降式拋售訊號 — RSI 21 超賣，低於 SMA200 -15.3%",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 16（超賣）",
-            "資金流：OUTFLOW（評分 -97.8）",
+            "RSI 21（超賣）",
+            "資金流：OUTFLOW（評分 -81.3）",
             "均線空頭排列（價格低於所有均線）",
             "遠低於長期平均 ＝ 均值回歸機會",
             "資金流出 ＝ 恐慌拋售 — 逆勢買入區"
@@ -2386,21 +2386,8 @@
           "rationale": "初跌兼 RSI 超賣 — 若支持守得住可逆勢入場",
           "factors": [
             "趨勢：早期跌勢",
-            "RSI 30（超賣）",
-            "資金流：OUTFLOW（評分 -19.5）"
-          ]
-        },
-        {
-          "ticker": "DBC",
-          "label": "商品指數",
-          "action": "BUY",
-          "confidence": 60,
-          "rationale": "初跌兼 RSI 超賣 — 若支持守得住可逆勢入場",
-          "factors": [
-            "趨勢：早期跌勢",
-            "RSI 12（超賣）",
-            "資金流：OUTFLOW（評分 -19.5）",
-            "均線空頭排列（價格低於所有均線）"
+            "RSI 24（超賣）",
+            "資金流：OUTFLOW（評分 -28.0）"
           ]
         },
         {
@@ -2417,6 +2404,19 @@
           ]
         },
         {
+          "ticker": "SPY",
+          "label": "標普500",
+          "action": "HOLD",
+          "confidence": 40,
+          "rationale": "破位向下但未超賣 — 逆勢入場言之尚早",
+          "factors": [
+            "趨勢：早期跌勢",
+            "RSI 41（中性）",
+            "資金流：OUTFLOW（評分 -27.9）",
+            "均線空頭排列（價格低於所有均線）"
+          ]
+        },
+        {
           "ticker": "TLT",
           "label": "20年期以上美債",
           "action": "HOLD",
@@ -2424,8 +2424,8 @@
           "rationale": "無極端情況 — 逆勢操作無優勢",
           "factors": [
             "趨勢：中性",
-            "RSI 48（中性）",
-            "資金流：INFLOW（評分 3.9）"
+            "RSI 55（中性）",
+            "資金流：NEUTRAL（評分 2.9）"
           ]
         },
         {
@@ -2685,13 +2685,13 @@
         {
           "ticker": "TLT",
           "label": "20年期以上美債",
-          "action": "BUY",
-          "confidence": 60,
-          "rationale": "相對排名改善（排名變動：+0），仲有上升空間",
+          "action": "HOLD",
+          "confidence": 40,
+          "rationale": "排名無明顯變化 — 無輪動訊號",
           "factors": [
             "趨勢：中性",
-            "RSI 48（中性）",
-            "資金流：INFLOW（評分 3.9）"
+            "RSI 55（中性）",
+            "資金流：NEUTRAL（評分 2.9）"
           ]
         },
         {
@@ -2721,28 +2721,15 @@
           ]
         },
         {
-          "ticker": "USO",
-          "label": "石油",
-          "action": "SELL",
-          "confidence": 80,
-          "rationale": "資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
-          "factors": [
-            "趨勢：早期跌勢",
-            "RSI 30（超賣）",
-            "資金流：OUTFLOW（評分 -19.5）",
-            "排名變動：0（由領頭位置跌落）"
-          ]
-        },
-        {
           "ticker": "SPY",
           "label": "標普500",
           "action": "SELL",
           "confidence": 80,
           "rationale": "資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
           "factors": [
-            "趨勢：跌勢確立",
-            "RSI 29（超賣）",
-            "資金流：OUTFLOW（評分 -57.3）",
+            "趨勢：早期跌勢",
+            "RSI 41（中性）",
+            "資金流：OUTFLOW（評分 -27.9）",
             "均線空頭排列（價格低於所有均線）",
             "排名變動：0（由領頭位置跌落）"
           ]
@@ -2754,9 +2741,9 @@
           "confidence": 80,
           "rationale": "資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
           "factors": [
-            "趨勢：早期跌勢",
+            "趨勢：跌勢確立",
             "RSI 12（超賣）",
-            "資金流：OUTFLOW（評分 -19.5）",
+            "資金流：OUTFLOW（評分 -28.0）",
             "均線空頭排列（價格低於所有均線）",
             "排名變動：0（由領頭位置跌落）"
           ]
@@ -2776,6 +2763,19 @@
           ]
         },
         {
+          "ticker": "USO",
+          "label": "石油",
+          "action": "SELL",
+          "confidence": 80,
+          "rationale": "資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
+          "factors": [
+            "趨勢：早期跌勢",
+            "RSI 24（超賣）",
+            "資金流：OUTFLOW（評分 -28.0）",
+            "排名變動：0（由領頭位置跌落）"
+          ]
+        },
+        {
           "ticker": "IBIT",
           "label": "比特幣ETF",
           "action": "SELL",
@@ -2783,8 +2783,8 @@
           "rationale": "資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 16（超賣）",
-            "資金流：OUTFLOW（評分 -97.8）",
+            "RSI 21（超賣）",
+            "資金流：OUTFLOW（評分 -81.3）",
             "均線空頭排列（價格低於所有均線）",
             "排名變動：0（由領頭位置跌落）"
           ]
@@ -3046,14 +3046,13 @@
         {
           "ticker": "TLT",
           "label": "20年期以上美債",
-          "action": "BUY",
-          "confidence": 40,
-          "rationale": "增持 — 趨勢未明但有資金流入 — 可建小倉",
+          "action": "HOLD",
+          "confidence": 35,
+          "rationale": "維持比重 — 訊號未明 — 等趨勢形成",
           "factors": [
             "趨勢：中性",
-            "RSI 48（中性）",
-            "資金流：INFLOW（評分 3.9）",
-            "輪動模式：將比重由落後者轉入呢隻"
+            "RSI 55（中性）",
+            "資金流：NEUTRAL（評分 2.9）"
           ]
         },
         {
@@ -3069,15 +3068,15 @@
           ]
         },
         {
-          "ticker": "SPY",
-          "label": "標普500",
+          "ticker": "DBC",
+          "label": "商品指數",
           "action": "SELL",
           "confidence": 75,
           "rationale": "減持 — 低於 SMA50 及 SMA200 — 跌勢確立，避開",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 29（超賣）",
-            "資金流：OUTFLOW（評分 -57.3）",
+            "RSI 12（超賣）",
+            "資金流：OUTFLOW（評分 -28.0）",
             "均線空頭排列（價格低於所有均線）",
             "超賣但趨勢向下 — 反彈料短暫",
             "輪動模式：將比重由呢隻轉去領先者"
@@ -3106,8 +3105,8 @@
           "rationale": "減持 — 低於 SMA50 及 SMA200 — 跌勢確立，避開",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 16（超賣）",
-            "資金流：OUTFLOW（評分 -97.8）",
+            "RSI 21（超賣）",
+            "資金流：OUTFLOW（評分 -81.3）",
             "均線空頭排列（價格低於所有均線）",
             "超賣但趨勢向下 — 反彈料短暫",
             "輪動模式：將比重由呢隻轉去領先者"
@@ -3128,6 +3127,20 @@
           ]
         },
         {
+          "ticker": "SPY",
+          "label": "標普500",
+          "action": "SELL",
+          "confidence": 70,
+          "rationale": "減持 — 跌穿 SMA50 兼資金流出 — 趨勢轉壞",
+          "factors": [
+            "趨勢：早期跌勢",
+            "RSI 41（中性）",
+            "資金流：OUTFLOW（評分 -27.9）",
+            "均線空頭排列（價格低於所有均線）",
+            "輪動模式：將比重由呢隻轉去領先者"
+          ]
+        },
+        {
           "ticker": "USO",
           "label": "石油",
           "action": "SELL",
@@ -3135,22 +3148,8 @@
           "rationale": "減持 — 跌穿 SMA50 兼資金流出 — 趨勢轉壞",
           "factors": [
             "趨勢：早期跌勢",
-            "RSI 30（超賣）",
-            "資金流：OUTFLOW（評分 -19.5）",
-            "輪動模式：將比重由呢隻轉去領先者"
-          ]
-        },
-        {
-          "ticker": "DBC",
-          "label": "商品指數",
-          "action": "SELL",
-          "confidence": 70,
-          "rationale": "減持 — 跌穿 SMA50 兼資金流出 — 趨勢轉壞",
-          "factors": [
-            "趨勢：早期跌勢",
-            "RSI 12（超賣）",
-            "資金流：OUTFLOW（評分 -19.5）",
-            "均線空頭排列（價格低於所有均線）",
+            "RSI 24（超賣）",
+            "資金流：OUTFLOW（評分 -28.0）",
             "輪動模式：將比重由呢隻轉去領先者"
           ]
         }
@@ -3409,15 +3408,15 @@
       ],
       "assetClass": [
         {
-          "ticker": "SPY",
-          "label": "標普500",
+          "ticker": "DBC",
+          "label": "商品指數",
           "action": "BUY",
           "confidence": 75,
-          "rationale": "增持 — 投降式拋售訊號 — RSI 29 超賣，低於 SMA200 -5.9%",
+          "rationale": "增持 — 投降式拋售訊號 — RSI 12 超賣，低於 SMA200 -2.2%",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 29（超賣）",
-            "資金流：OUTFLOW（評分 -57.3）",
+            "RSI 12（超賣）",
+            "資金流：OUTFLOW（評分 -28.0）",
             "均線空頭排列（價格低於所有均線）",
             "遠低於長期平均 ＝ 均值回歸機會",
             "資金流出 ＝ 恐慌拋售 — 逆勢買入區",
@@ -3445,11 +3444,11 @@
           "label": "比特幣ETF",
           "action": "BUY",
           "confidence": 75,
-          "rationale": "增持 — 投降式拋售訊號 — RSI 16 超賣，低於 SMA200 -19.2%",
+          "rationale": "增持 — 投降式拋售訊號 — RSI 21 超賣，低於 SMA200 -15.3%",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 16（超賣）",
-            "資金流：OUTFLOW（評分 -97.8）",
+            "RSI 21（超賣）",
+            "資金流：OUTFLOW（評分 -81.3）",
             "均線空頭排列（價格低於所有均線）",
             "遠低於長期平均 ＝ 均值回歸機會",
             "資金流出 ＝ 恐慌拋售 — 逆勢買入區",
@@ -3464,22 +3463,8 @@
           "rationale": "增持 — 初跌兼 RSI 超賣 — 若支持守得住可逆勢入場",
           "factors": [
             "趨勢：早期跌勢",
-            "RSI 30（超賣）",
-            "資金流：OUTFLOW（評分 -19.5）",
-            "輪動模式：將比重由落後者轉入呢隻"
-          ]
-        },
-        {
-          "ticker": "DBC",
-          "label": "商品指數",
-          "action": "BUY",
-          "confidence": 55,
-          "rationale": "增持 — 初跌兼 RSI 超賣 — 若支持守得住可逆勢入場",
-          "factors": [
-            "趨勢：早期跌勢",
-            "RSI 12（超賣）",
-            "資金流：OUTFLOW（評分 -19.5）",
-            "均線空頭排列（價格低於所有均線）",
+            "RSI 24（超賣）",
+            "資金流：OUTFLOW（評分 -28.0）",
             "輪動模式：將比重由落後者轉入呢隻"
           ]
         },
@@ -3497,6 +3482,19 @@
           ]
         },
         {
+          "ticker": "SPY",
+          "label": "標普500",
+          "action": "HOLD",
+          "confidence": 40,
+          "rationale": "維持比重 — 破位向下但未超賣 — 逆勢入場言之尚早",
+          "factors": [
+            "趨勢：早期跌勢",
+            "RSI 41（中性）",
+            "資金流：OUTFLOW（評分 -27.9）",
+            "均線空頭排列（價格低於所有均線）"
+          ]
+        },
+        {
           "ticker": "TLT",
           "label": "20年期以上美債",
           "action": "HOLD",
@@ -3504,8 +3502,8 @@
           "rationale": "維持比重 — 無極端情況 — 逆勢操作無優勢",
           "factors": [
             "趨勢：中性",
-            "RSI 48（中性）",
-            "資金流：INFLOW（評分 3.9）"
+            "RSI 55（中性）",
+            "資金流：NEUTRAL（評分 2.9）"
           ]
         },
         {
@@ -3773,14 +3771,13 @@
         {
           "ticker": "TLT",
           "label": "20年期以上美債",
-          "action": "BUY",
-          "confidence": 55,
-          "rationale": "增持 — 相對排名改善（排名變動：+0），仲有上升空間",
+          "action": "HOLD",
+          "confidence": 40,
+          "rationale": "維持比重 — 排名無明顯變化 — 無輪動訊號",
           "factors": [
             "趨勢：中性",
-            "RSI 48（中性）",
-            "資金流：INFLOW（評分 3.9）",
-            "輪動模式：將比重由落後者轉入呢隻"
+            "RSI 55（中性）",
+            "資金流：NEUTRAL（評分 2.9）"
           ]
         },
         {
@@ -3811,29 +3808,15 @@
           ]
         },
         {
-          "ticker": "USO",
-          "label": "石油",
-          "action": "SELL",
-          "confidence": 75,
-          "rationale": "減持 — 資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
-          "factors": [
-            "趨勢：早期跌勢",
-            "RSI 30（超賣）",
-            "資金流：OUTFLOW（評分 -19.5）",
-            "排名變動：0（由領頭位置跌落）",
-            "輪動模式：將比重由呢隻轉去領先者"
-          ]
-        },
-        {
           "ticker": "SPY",
           "label": "標普500",
           "action": "SELL",
           "confidence": 75,
           "rationale": "減持 — 資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
           "factors": [
-            "趨勢：跌勢確立",
-            "RSI 29（超賣）",
-            "資金流：OUTFLOW（評分 -57.3）",
+            "趨勢：早期跌勢",
+            "RSI 41（中性）",
+            "資金流：OUTFLOW（評分 -27.9）",
             "均線空頭排列（價格低於所有均線）",
             "排名變動：0（由領頭位置跌落）",
             "輪動模式：將比重由呢隻轉去領先者"
@@ -3846,9 +3829,9 @@
           "confidence": 75,
           "rationale": "減持 — 資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
           "factors": [
-            "趨勢：早期跌勢",
+            "趨勢：跌勢確立",
             "RSI 12（超賣）",
-            "資金流：OUTFLOW（評分 -19.5）",
+            "資金流：OUTFLOW（評分 -28.0）",
             "均線空頭排列（價格低於所有均線）",
             "排名變動：0（由領頭位置跌落）",
             "輪動模式：將比重由呢隻轉去領先者"
@@ -3870,6 +3853,20 @@
           ]
         },
         {
+          "ticker": "USO",
+          "label": "石油",
+          "action": "SELL",
+          "confidence": 75,
+          "rationale": "減持 — 資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
+          "factors": [
+            "趨勢：早期跌勢",
+            "RSI 24（超賣）",
+            "資金流：OUTFLOW（評分 -28.0）",
+            "排名變動：0（由領頭位置跌落）",
+            "輪動模式：將比重由呢隻轉去領先者"
+          ]
+        },
+        {
           "ticker": "IBIT",
           "label": "比特幣ETF",
           "action": "SELL",
@@ -3877,8 +3874,8 @@
           "rationale": "減持 — 資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 16（超賣）",
-            "資金流：OUTFLOW（評分 -97.8）",
+            "RSI 21（超賣）",
+            "資金流：OUTFLOW（評分 -81.3）",
             "均線空頭排列（價格低於所有均線）",
             "排名變動：0（由領頭位置跌落）",
             "輪動模式：將比重由呢隻轉去領先者"
